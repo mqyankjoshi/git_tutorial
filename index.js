@@ -1,2 +1,2 @@
 console.log('index.js file loaded');
-console.log('version 3');
+console.log('version 1');
