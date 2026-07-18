@@ -1,2 +1,2 @@
 console.log('index.js file loaded');
-console.log('version 2 remastered');
+console.log('version  remastered');
